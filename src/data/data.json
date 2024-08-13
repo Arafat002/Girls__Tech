@@ -1,0 +1,166 @@
+{
+  "Header": {
+    "title": "JOIN OUR COMMUNITY OF TRAILBLAZERS TODAY!!!",
+    "paragraph": "Discover amazing minds like yours, diverse voices, and endless possibilities in the world of technology. Let's break barriers, embrace technology evolution, and pave the way for a brighter future together. Welcome to a space where girls thrive, build, and lead in the tech industry. Join us on this exciting journey!"
+  },
+  "About": {
+    "paragraph": "We are a dynamic, girls-only tech community dedicated to empowering women in the technology sector. Our mission is to create a supportive and inclusive environment where women can learn, grow, and succeed in their tech careers. Through expert-led workshops, mentorship opportunities, collaborative projects, and a wealth of resources, we provide our members with the tools and support they need to excel. We believe in the power of diversity and are committed to celebrating and promoting the unique perspectives that women bring to the tech industry. Join us to connect with like-minded women, gain valuable skills, and be a part of a movement that is shaping the future of technology.",
+    "Why": [
+      "Mentorship Opportunities",
+      "Expert-Led Workshops and Events",
+      "Daily commitments",
+      "Peer learning"
+    ],
+    "Why2": [
+      "Inclusiveness",
+      "Networking and Support",
+      "Access to Resources",
+      "Career Development"
+    ]
+  },
+  "Gallery": [
+    {
+      "smallImage": "img/iwd1.jpg"
+    },
+    {
+      "smallImage": "img/iwd2.jpg"
+    },
+    {
+      "smallImage": "img/iwd3.jpg"
+    },
+    {
+      "smallImage": "img/iwd4.jpg"
+    },
+    {
+      "smallImage": "img/iwd5.jpg"
+    },
+    {
+      "smallImage": "img/iwd6.jpg"
+    },
+    {
+      "smallImage": "img/iwd7.jpg"
+    },
+    {
+      "smallImage": "img/iwd10.jpg"
+    },
+    {
+      "smallImage": "img/iwd9.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-solid fa-user",
+      "name": "Leadership Opportunities",
+      "text": "Take on leadership roles within our community by leading a chapter at your school or in your local area. This is your chance to inspire others, build a supportive network, and develop your leadership skills."
+    },
+    {
+      "icon": "fa fa-solid fa-file",
+      "name": "Resource Library",
+      "text": "Access our extensive library of resources, including tutorials, articles, and tools on various tech topics. This curated collection is designed to keep you informed and empowered in your learning journey."
+    },
+    {
+      "icon": "fa fa-solid fa-pencil",
+      "name": "Collaborative Learning",
+      "text": "Participate in collaborative tech projects that give you hands-on experience and the opportunity to work with fellow community members. These projects help you apply what you’ve learned and build a portfolio of real-world solutions."
+    },
+    {
+      "icon": "fa fa-solid fa-briefcase",
+      "name": "Mentorship and Career Coaching",
+      "text": "Our mentorship program connects you with industry professionals who offer personalized guidance, helping you navigate your career journey with confidence. From resume crafting to interview preparation, we’re here to support your success."
+    },
+    {
+      "icon": "fa fa-solid fa-laptop",
+      "name": "Workshops and Training Programs",
+      "text": "We provide a variety of workshops and training sessions that cater to all skill levels. Whether you're just starting out or looking to enhance your tech knowledge, our programs are designed to help you grow."
+    },
+    {
+      "icon": "fa fa-group",
+      "name": "Exclusive Online Community Forum",
+      "text": "Join our vibrant online forum where you can connect with other members, share knowledge, ask questions, and collaborate on tech-related topics."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/Arafatt.jpg",
+      "name": "Arafat Motolani",
+      "job": "Founder"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Aliyyah Kalejaye",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Aminah Afolabi",
+      "job": "Technical Lead"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "Lagos, Nigeria",
+    "phone": "+2348085011880",
+    "email": "GirlsTecch@gmail.com",
+    "Whatsapp": "Whatsapp.com",
+    "twitter": "https://x.com/Girls__Tech",
+    "instagram": "https://t.co/wpbjL9tvvF"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lead a chapter",
+      "text": "Opportunity to lead a group of women at your school, fostering growth and learning together as you develop leadership skills."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Collaborative Learning",
+      "text": "Engage in real-world projects with fellow community members to build practical skills and create innovative solutions."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Networking Environment",
+      "text": "Connect with a network of like-minded women, fostering mutual growth in a safe and inclusive space."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Mentorship and Guidance",
+      "text": "Access personalized mentorship from experienced professionals to help you navigate and advance your tech career."
+    }
+  ]
+}
