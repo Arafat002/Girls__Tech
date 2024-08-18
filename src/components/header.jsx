@@ -14,7 +14,7 @@ export const Header = (props) => {
                 </h1>
                 <p>{props.data ? props.data.paragraph : "Loading"}</p>
                 <a
-                  href="https://forms.gle/78ADruymPa8grCEd9"
+                  href="https://forms.gle/8pNh9U2aHNcYuZ9C7"
                   className="btn btn-custom btn-lg page-scroll"
                 >
                   Join us here
